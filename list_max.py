@@ -19,4 +19,4 @@ def list_max(nums):
 
     return list_max(nums)
 
-print (list_max([1,2,95754754745,3,1,8,444,2,42425]))
+
